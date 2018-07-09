@@ -44,4 +44,4 @@ with open("data_normalization/country_list.json", "w") as f:
     json.dump(sorted(list(cset)), f, indent=2)
 
 with open("data_normalization/country_freq.json", "w") as f:
-    json.dump([x[1] for x in cdict.getSortedPairs()], f, indent=2)
+    json.dump([{"count": x[0], "name": x[1]} for x in cdict.getSortedPairs()], f, indent=2)

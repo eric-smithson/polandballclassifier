@@ -1,414 +1,1650 @@
 [
-  "Various", 
-  "U.S.", 
-  "Germany", 
-  "Poland", 
-  "Russia", 
-  "U.K.", 
-  "France", 
-  "Canada", 
-  "Soviet Union", 
-  "Nazi Germany", 
-  "Israel", 
-  "China", 
-  "Japan", 
-  "Sweden", 
-  "Austria", 
-  "Italy", 
-  "Ukraine", 
-  "Switzerland", 
-  "Denmark", 
-  "Australia", 
-  "India", 
-  "Greece", 
-  "Finland", 
-  "E.U.", 
-  "Turkey", 
-  "Serbia", 
-  "Romania", 
-  "North Korea", 
-  "Mexico", 
-  "Netherlands", 
-  "Belgium", 
-  "United States", 
-  "Norway", 
-  "Hungary", 
-  "Ireland", 
-  "United Kingdom", 
-  "Spain", 
-  "South Korea", 
-  "Palestine", 
-  "Estonia", 
-  "Iran", 
-  "Imperial Germany", 
-  "Argentina", 
-  "Scotland", 
-  "England", 
-  "Reichtangle", 
-  "Lithuania", 
-  "Latvia", 
-  "Iceland", 
-  "Taiwan", 
-  "Sealand", 
-  "Belarus", 
-  "Philippines", 
-  "Iraq", 
-  "Gypsies", 
-  "US", 
-  "Nepal", 
-  "Croatia", 
-  "Chile", 
-  "UN", 
-  "Syria", 
-  "South Africa", 
-  "Nigeria", 
-  "New Zealand", 
-  "Morocco", 
-  "Wales", 
-  "UK", 
-  "U.N.", 
-  "Somalia", 
-  "Quebec", 
-  "Portugal", 
-  "Pakistan", 
-  "Native Americans", 
-  "Indonesia", 
-  "Egypt", 
-  "Zimbabwe", 
-  "Vietnam", 
-  "Palau", 
-  "Liechtenstein", 
-  "Fascist Italy", 
-  "EU", 
-  "Brazil", 
-  "Albania", 
-  "Northern Ireland", 
-  "Kazakhstan", 
-  "Czech Republic", 
-  "Britain", 
-  "Ancient Rome", 
-  "Vatican City", 
-  "Texas", 
-  "Saudi Arabia", 
-  "San Marino", 
-  "Montenegro", 
-  "Mongolia", 
-  "Bulgaria", 
-  "Bolivia", 
-  "Antarctica", 
-  "Yemen", 
-  "Western Sahara", 
-  "Peru", 
-  "Panama", 
-  "Ottoman Empire", 
-  "Imperial Japan", 
-  "Eritrea", 
-  "Cuba", 
-  "Crimea", 
-  "Armenia", 
-  "Afghanistan", 
-  "Uzbekistan", 
-  "Thailand", 
-  "Singapore", 
-  "Rome", 
-  "Puerto Rico", 
-  "Mauritania", 
-  "League of Nations", 
-  "Haiti", 
-  "Greenland", 
-  "East Germany", 
-  "Czechoslovakia", 
-  "Yugoslavia", 
-  "Tibet", 
-  "Tanzania", 
-  "Sweeden", 
-  "Slovenia", 
-  "Prussia", 
-  "Moldova", 
-  "Malaysia", 
-  "Macedonia", 
-  "Kosovo", 
-  "Kenya", 
-  "Jordan", 
-  "DRC", 
-  "Colombia", 
-  "Botswana", 
-  "Azerbaijan", 
-  "America", 
-  "West Germany", 
-  "Uganda", 
-  "Sudan", 
-  "NATO", 
-  "Mali", 
-  "Libya", 
-  "Liberia", 
-  "Lesotho", 
-  "Laos", 
-  "Kuwait", 
-  "Hong Kong", 
-  "Georgia", 
-  "Chad", 
-  "Cambodia", 
-  "Burma", 
-  "Brunei", 
-  "Bosnia", 
-  "Aborigines", 
-  "Venezuela", 
-  "Uruguay", 
-  "Tonga", 
-  "Syrian Rebels", 
-  "Spanish Empire", 
-  "South Sudan", 
-  "Sierra Leone", 
-  "Rwanda", 
-  "Monaco", 
-  "Mauritius", 
-  "Malta", 
-  "Madagascar", 
-  "Macau", 
-  "Luxembourg", 
-  "Kyrgyzstan", 
-  "Holy Roman Empire", 
-  "German Empire", 
-  "Gambia", 
-  "European Union", 
-  "Ethiopia", 
-  "Cyprus", 
-  "Central African Republic", 
-  "Burundi", 
-  "Bosnia and Herzegovina", 
-  "Bhutan", 
-  "Andorra", 
-  "Aliens", 
-  "Algeria", 
-  "Africans", 
-  "Abkhazia", 
-  "Yap", 
-  "UAE", 
-  "Tuvalu", 
-  "Tunisia", 
-  "Transnistria", 
-  "Togo", 
-  "Terrorists", 
-  "Taliban", 
-  "Suriname", 
-  "Soviet Ukraine", 
-  "Slovakia", 
-  "Senegal", 
-  "Portuguese Empire", 
-  "Paraguay", 
-  "Omsk Bird", 
-  "Oman", 
-  "Ohio", 
-  "Northern Cyprus", 
-  "Niger", 
-  "Nauru", 
-  "Nagorno", 
-  "Mozambique", 
-  "Micronesia", 
-  "Marshall Islands", 
-  "Kurdistan", 
-  "Kashmir", 
-  "Kaliningrad", 
-  "Jamaica", 
-  "Ivory Coast", 
-  "Imperial Russia", 
-  "Honduras", 
-  "Guyana", 
-  "Guinea", 
-  "Guatemala", 
-  "Faroe Islands", 
-  "Falkland Islands", 
-  "Eriteria", 
-  "El Salvador", 
-  "East Timor", 
-  "Democratic Republic of the Congo", 
-  "DR Congo", 
-  "Congo", 
-  "Columbia", 
-  "Chechnya", 
-  "Catalonia", 
-  "Cascadia", 
-  "Byzantine Empire", 
-  "Burkina Faso", 
-  "Benin", 
-  "Basque", 
-  "Bangladesh", 
-  "Austrian Empire", 
-  "Antigua and Barbuda", 
-  "Angola", 
-  "Ancient Greece", 
-  "Alaska", 
-  "African Union", 
-  "ASEAN", 
-  "", 
-  "various", 
-  "Zanzibar", 
-  "Zambia", 
-  "Wurttemburg", 
-  "Washington", 
-  "War", 
-  "Venice", 
-  "Vanuatu", 
-  "United Nations", 
-  "Ukraine Oil", 
-  "Uighurs", 
-  "USSR", 
-  "USA", 
-  "U.K. Seychelles", 
-  "U.K. Scotland", 
-  "U.A.E.", 
-  "Tusinia", 
-  "Turkmenistan", 
-  "Tristan da Cunha", 
-  "Trinidad and Tobago", 
-  "Treaty of Tordesillas", 
-  "Thespiae", 
-  "Tesin", 
-  "Tasmania", 
-  "Switzeland", 
-  "Swiss", 
-  "Swaziland", 
-  "Svalbard", 
-  "Surinam", 
-  "St. Kitts and Nevis", 
-  "St Kitts and Nevis", 
-  "Sri Lanka", 
-  "Sparta", 
-  "Spanish Nations", 
-  "Sovakia", 
-  "South Yemen", 
-  "South Vietnam", 
-  "South Ossetia", 
-  "South Georgia and the South Sandwich Islands", 
-  "Solomon Islands", 
-  "Snowballs", 
-  "Seychelles", 
-  "Sengal", 
-  "Savoy", 
-  "Saint Vincent and Grenadines", 
-  "Saint Lucia", 
-  "Russian SSR", 
-  "Russian Empire", 
-  "Rusian Empire", 
-  "Romani People", 
-  "Romance Countries", 
-  "Roman Empire", 
-  "Rohingya Muslims", 
-  "Republic of China", 
-  "Qing China", 
-  "Pluto", 
-  "Papua New Guinea", 
-  "PIIGS", 
-  "Oudh State", 
-  "Ontario", 
-  "Oil Independence", 
-  "Nova Scotia", 
-  "North Yemen", 
-  "North Vietnam", 
-  "New England", 
-  "New Caldonia", 
-  "Namibia", 
-  "Myanmar", 
-  "Mughal Empire", 
-  "Mongols", 
-  "Mongolians", 
-  "Mongol Empire", 
-  "Middle East", 
-  "Meixco", 
-  "Mayotte", 
-  "Mars", 
-  "Maratha Empire", 
-  "Maori", 
-  "Manchukuo", 
-  "Maldives", 
-  "Malawi", 
-  "Maine", 
-  "Madhya Pradesh", 
-  "Madeira", 
-  "Louisana", 
-  "Leosotho", 
-  "Lemko Republic", 
-  "Lebanon", 
-  "Leage of Nations", 
-  "Krakow", 
-  "Koreas", 
-  "Korea", 
-  "Kingdom of the Two Sicilies", 
-  "Jewish Refugees", 
-  "Jewish Oblast", 
-  "JLP Results", 
-  "Italy and Austria", 
-  "Ingushetia", 
-  "ISIS", 
-  "IMF", 
-  "Hungarian", 
-  "Holland", 
-  "Hawaii", 
-  "Hamburg", 
-  "Gysies", 
-  "Guinea(s)", 
-  "Guam", 
-  "Goa", 
-  "Gibralter", 
-  "Ghana", 
-  "Germnay", 
-  "Gabon", 
-  "French Guyana", 
-  "Flevoland", 
-  "Flanders", 
-  "Flag Change.", 
-  "Finalnd", 
-  "Fiji", 
-  "Faroe lsands", 
-  "Facist Spain", 
-  "Facist Italy", 
-  "European Nations", 
-  "Ethopia", 
-  "Equatorial Guinea", 
-  "Equador", 
-  "East German", 
-  "Dominican Republic", 
-  "Dominica", 
-  "Djibouti", 
-  "Dervish State", 
-  "Democratic Kampuchea", 
-  "Danzig", 
-  "D.C.", 
-  "Czechoslavia", 
-  "Constantinople", 
-  "Congos", 
-  "Congo Republic", 
-  "Colorado", 
-  "Colonies", 
-  "Chad Similar Flags", 
-  "Carthage (Tunisia)", 
-  "Carthage", 
-  "Canadian Natives", 
-  "Cameroon", 
-  "Calabria", 
-  "Bosniaks", 
-  "Blacks", 
-  "Billiard Balls", 
-  "Bermuda Triangle", 
-  "Bermuda", 
-  "Basque Country", 
-  "Barbary States", 
-  "Barbary Pirates", 
-  "Bahamas", 
-  "Azores", 
-  "Autria", 
-  "Australian Capital Territory", 
-  "Australai", 
-  "Asian People", 
-  "Arctic Victory", 
-  "Annobon Province", 
-  "Ancient Greeks", 
-  "Alsace", 
-  "Aland Islands", 
-  "Aland", 
-  "Al Qaeda", 
-  "African Natives", 
-  "Aboriginals", 
-  "8"
+  {
+    "count": 437,
+    "name": "Various"
+  },
+  {
+    "count": 303,
+    "name": "U.S."
+  },
+  {
+    "count": 219,
+    "name": "Germany"
+  },
+  {
+    "count": 213,
+    "name": "Poland"
+  },
+  {
+    "count": 167,
+    "name": "Russia"
+  },
+  {
+    "count": 162,
+    "name": "U.K."
+  },
+  {
+    "count": 141,
+    "name": "France"
+  },
+  {
+    "count": 102,
+    "name": "Canada"
+  },
+  {
+    "count": 92,
+    "name": "Soviet Union"
+  },
+  {
+    "count": 73,
+    "name": "Nazi Germany"
+  },
+  {
+    "count": 72,
+    "name": "Israel"
+  },
+  {
+    "count": 68,
+    "name": "China"
+  },
+  {
+    "count": 63,
+    "name": "Japan"
+  },
+  {
+    "count": 58,
+    "name": "Sweden"
+  },
+  {
+    "count": 58,
+    "name": "Austria"
+  },
+  {
+    "count": 55,
+    "name": "Italy"
+  },
+  {
+    "count": 48,
+    "name": "Ukraine"
+  },
+  {
+    "count": 44,
+    "name": "Switzerland"
+  },
+  {
+    "count": 38,
+    "name": "Denmark"
+  },
+  {
+    "count": 37,
+    "name": "Australia"
+  },
+  {
+    "count": 35,
+    "name": "India"
+  },
+  {
+    "count": 34,
+    "name": "Greece"
+  },
+  {
+    "count": 34,
+    "name": "Finland"
+  },
+  {
+    "count": 33,
+    "name": "E.U."
+  },
+  {
+    "count": 30,
+    "name": "Turkey"
+  },
+  {
+    "count": 30,
+    "name": "Serbia"
+  },
+  {
+    "count": 30,
+    "name": "Romania"
+  },
+  {
+    "count": 30,
+    "name": "North Korea"
+  },
+  {
+    "count": 30,
+    "name": "Mexico"
+  },
+  {
+    "count": 29,
+    "name": "Netherlands"
+  },
+  {
+    "count": 27,
+    "name": "Belgium"
+  },
+  {
+    "count": 26,
+    "name": "United States"
+  },
+  {
+    "count": 26,
+    "name": "Norway"
+  },
+  {
+    "count": 24,
+    "name": "Hungary"
+  },
+  {
+    "count": 23,
+    "name": "Ireland"
+  },
+  {
+    "count": 22,
+    "name": "United Kingdom"
+  },
+  {
+    "count": 22,
+    "name": "Spain"
+  },
+  {
+    "count": 22,
+    "name": "South Korea"
+  },
+  {
+    "count": 22,
+    "name": "Palestine"
+  },
+  {
+    "count": 22,
+    "name": "Estonia"
+  },
+  {
+    "count": 21,
+    "name": "Iran"
+  },
+  {
+    "count": 20,
+    "name": "Imperial Germany"
+  },
+  {
+    "count": 20,
+    "name": "Argentina"
+  },
+  {
+    "count": 19,
+    "name": "Scotland"
+  },
+  {
+    "count": 19,
+    "name": "England"
+  },
+  {
+    "count": 18,
+    "name": "Reichtangle"
+  },
+  {
+    "count": 17,
+    "name": "Lithuania"
+  },
+  {
+    "count": 16,
+    "name": "Latvia"
+  },
+  {
+    "count": 16,
+    "name": "Iceland"
+  },
+  {
+    "count": 15,
+    "name": "Taiwan"
+  },
+  {
+    "count": 15,
+    "name": "Sealand"
+  },
+  {
+    "count": 15,
+    "name": "Belarus"
+  },
+  {
+    "count": 14,
+    "name": "Philippines"
+  },
+  {
+    "count": 14,
+    "name": "Iraq"
+  },
+  {
+    "count": 14,
+    "name": "Gypsies"
+  },
+  {
+    "count": 13,
+    "name": "US"
+  },
+  {
+    "count": 13,
+    "name": "Nepal"
+  },
+  {
+    "count": 13,
+    "name": "Croatia"
+  },
+  {
+    "count": 13,
+    "name": "Chile"
+  },
+  {
+    "count": 12,
+    "name": "UN"
+  },
+  {
+    "count": 12,
+    "name": "Syria"
+  },
+  {
+    "count": 12,
+    "name": "South Africa"
+  },
+  {
+    "count": 12,
+    "name": "Nigeria"
+  },
+  {
+    "count": 12,
+    "name": "New Zealand"
+  },
+  {
+    "count": 12,
+    "name": "Morocco"
+  },
+  {
+    "count": 11,
+    "name": "Wales"
+  },
+  {
+    "count": 11,
+    "name": "UK"
+  },
+  {
+    "count": 11,
+    "name": "U.N."
+  },
+  {
+    "count": 11,
+    "name": "Somalia"
+  },
+  {
+    "count": 11,
+    "name": "Quebec"
+  },
+  {
+    "count": 11,
+    "name": "Portugal"
+  },
+  {
+    "count": 11,
+    "name": "Pakistan"
+  },
+  {
+    "count": 11,
+    "name": "Native Americans"
+  },
+  {
+    "count": 11,
+    "name": "Indonesia"
+  },
+  {
+    "count": 11,
+    "name": "Egypt"
+  },
+  {
+    "count": 10,
+    "name": "Zimbabwe"
+  },
+  {
+    "count": 10,
+    "name": "Vietnam"
+  },
+  {
+    "count": 10,
+    "name": "Palau"
+  },
+  {
+    "count": 10,
+    "name": "Liechtenstein"
+  },
+  {
+    "count": 10,
+    "name": "Fascist Italy"
+  },
+  {
+    "count": 10,
+    "name": "EU"
+  },
+  {
+    "count": 10,
+    "name": "Brazil"
+  },
+  {
+    "count": 10,
+    "name": "Albania"
+  },
+  {
+    "count": 9,
+    "name": "Northern Ireland"
+  },
+  {
+    "count": 9,
+    "name": "Kazakhstan"
+  },
+  {
+    "count": 9,
+    "name": "Czech Republic"
+  },
+  {
+    "count": 9,
+    "name": "Britain"
+  },
+  {
+    "count": 9,
+    "name": "Ancient Rome"
+  },
+  {
+    "count": 8,
+    "name": "Vatican City"
+  },
+  {
+    "count": 8,
+    "name": "Texas"
+  },
+  {
+    "count": 8,
+    "name": "Saudi Arabia"
+  },
+  {
+    "count": 8,
+    "name": "San Marino"
+  },
+  {
+    "count": 8,
+    "name": "Montenegro"
+  },
+  {
+    "count": 8,
+    "name": "Mongolia"
+  },
+  {
+    "count": 8,
+    "name": "Bulgaria"
+  },
+  {
+    "count": 8,
+    "name": "Bolivia"
+  },
+  {
+    "count": 8,
+    "name": "Antarctica"
+  },
+  {
+    "count": 7,
+    "name": "Yemen"
+  },
+  {
+    "count": 7,
+    "name": "Western Sahara"
+  },
+  {
+    "count": 7,
+    "name": "Peru"
+  },
+  {
+    "count": 7,
+    "name": "Panama"
+  },
+  {
+    "count": 7,
+    "name": "Ottoman Empire"
+  },
+  {
+    "count": 7,
+    "name": "Imperial Japan"
+  },
+  {
+    "count": 7,
+    "name": "Eritrea"
+  },
+  {
+    "count": 7,
+    "name": "Cuba"
+  },
+  {
+    "count": 7,
+    "name": "Crimea"
+  },
+  {
+    "count": 7,
+    "name": "Armenia"
+  },
+  {
+    "count": 7,
+    "name": "Afghanistan"
+  },
+  {
+    "count": 6,
+    "name": "Uzbekistan"
+  },
+  {
+    "count": 6,
+    "name": "Thailand"
+  },
+  {
+    "count": 6,
+    "name": "Singapore"
+  },
+  {
+    "count": 6,
+    "name": "Rome"
+  },
+  {
+    "count": 6,
+    "name": "Puerto Rico"
+  },
+  {
+    "count": 6,
+    "name": "Mauritania"
+  },
+  {
+    "count": 6,
+    "name": "League of Nations"
+  },
+  {
+    "count": 6,
+    "name": "Haiti"
+  },
+  {
+    "count": 6,
+    "name": "Greenland"
+  },
+  {
+    "count": 6,
+    "name": "East Germany"
+  },
+  {
+    "count": 6,
+    "name": "Czechoslovakia"
+  },
+  {
+    "count": 5,
+    "name": "Yugoslavia"
+  },
+  {
+    "count": 5,
+    "name": "Tibet"
+  },
+  {
+    "count": 5,
+    "name": "Tanzania"
+  },
+  {
+    "count": 5,
+    "name": "Sweeden"
+  },
+  {
+    "count": 5,
+    "name": "Slovenia"
+  },
+  {
+    "count": 5,
+    "name": "Prussia"
+  },
+  {
+    "count": 5,
+    "name": "Moldova"
+  },
+  {
+    "count": 5,
+    "name": "Malaysia"
+  },
+  {
+    "count": 5,
+    "name": "Macedonia"
+  },
+  {
+    "count": 5,
+    "name": "Kosovo"
+  },
+  {
+    "count": 5,
+    "name": "Kenya"
+  },
+  {
+    "count": 5,
+    "name": "Jordan"
+  },
+  {
+    "count": 5,
+    "name": "DRC"
+  },
+  {
+    "count": 5,
+    "name": "Colombia"
+  },
+  {
+    "count": 5,
+    "name": "Botswana"
+  },
+  {
+    "count": 5,
+    "name": "Azerbaijan"
+  },
+  {
+    "count": 5,
+    "name": "America"
+  },
+  {
+    "count": 4,
+    "name": "West Germany"
+  },
+  {
+    "count": 4,
+    "name": "Uganda"
+  },
+  {
+    "count": 4,
+    "name": "Sudan"
+  },
+  {
+    "count": 4,
+    "name": "NATO"
+  },
+  {
+    "count": 4,
+    "name": "Mali"
+  },
+  {
+    "count": 4,
+    "name": "Libya"
+  },
+  {
+    "count": 4,
+    "name": "Liberia"
+  },
+  {
+    "count": 4,
+    "name": "Lesotho"
+  },
+  {
+    "count": 4,
+    "name": "Laos"
+  },
+  {
+    "count": 4,
+    "name": "Kuwait"
+  },
+  {
+    "count": 4,
+    "name": "Hong Kong"
+  },
+  {
+    "count": 4,
+    "name": "Georgia"
+  },
+  {
+    "count": 4,
+    "name": "Chad"
+  },
+  {
+    "count": 4,
+    "name": "Cambodia"
+  },
+  {
+    "count": 4,
+    "name": "Burma"
+  },
+  {
+    "count": 4,
+    "name": "Brunei"
+  },
+  {
+    "count": 4,
+    "name": "Bosnia"
+  },
+  {
+    "count": 4,
+    "name": "Aborigines"
+  },
+  {
+    "count": 3,
+    "name": "Venezuela"
+  },
+  {
+    "count": 3,
+    "name": "Uruguay"
+  },
+  {
+    "count": 3,
+    "name": "Tonga"
+  },
+  {
+    "count": 3,
+    "name": "Syrian Rebels"
+  },
+  {
+    "count": 3,
+    "name": "Spanish Empire"
+  },
+  {
+    "count": 3,
+    "name": "South Sudan"
+  },
+  {
+    "count": 3,
+    "name": "Sierra Leone"
+  },
+  {
+    "count": 3,
+    "name": "Rwanda"
+  },
+  {
+    "count": 3,
+    "name": "Monaco"
+  },
+  {
+    "count": 3,
+    "name": "Mauritius"
+  },
+  {
+    "count": 3,
+    "name": "Malta"
+  },
+  {
+    "count": 3,
+    "name": "Madagascar"
+  },
+  {
+    "count": 3,
+    "name": "Macau"
+  },
+  {
+    "count": 3,
+    "name": "Luxembourg"
+  },
+  {
+    "count": 3,
+    "name": "Kyrgyzstan"
+  },
+  {
+    "count": 3,
+    "name": "Holy Roman Empire"
+  },
+  {
+    "count": 3,
+    "name": "German Empire"
+  },
+  {
+    "count": 3,
+    "name": "Gambia"
+  },
+  {
+    "count": 3,
+    "name": "European Union"
+  },
+  {
+    "count": 3,
+    "name": "Ethiopia"
+  },
+  {
+    "count": 3,
+    "name": "Cyprus"
+  },
+  {
+    "count": 3,
+    "name": "Central African Republic"
+  },
+  {
+    "count": 3,
+    "name": "Burundi"
+  },
+  {
+    "count": 3,
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "count": 3,
+    "name": "Bhutan"
+  },
+  {
+    "count": 3,
+    "name": "Andorra"
+  },
+  {
+    "count": 3,
+    "name": "Aliens"
+  },
+  {
+    "count": 3,
+    "name": "Algeria"
+  },
+  {
+    "count": 3,
+    "name": "Africans"
+  },
+  {
+    "count": 3,
+    "name": "Abkhazia"
+  },
+  {
+    "count": 2,
+    "name": "Yap"
+  },
+  {
+    "count": 2,
+    "name": "UAE"
+  },
+  {
+    "count": 2,
+    "name": "Tuvalu"
+  },
+  {
+    "count": 2,
+    "name": "Tunisia"
+  },
+  {
+    "count": 2,
+    "name": "Transnistria"
+  },
+  {
+    "count": 2,
+    "name": "Togo"
+  },
+  {
+    "count": 2,
+    "name": "Terrorists"
+  },
+  {
+    "count": 2,
+    "name": "Taliban"
+  },
+  {
+    "count": 2,
+    "name": "Suriname"
+  },
+  {
+    "count": 2,
+    "name": "Soviet Ukraine"
+  },
+  {
+    "count": 2,
+    "name": "Slovakia"
+  },
+  {
+    "count": 2,
+    "name": "Senegal"
+  },
+  {
+    "count": 2,
+    "name": "Portuguese Empire"
+  },
+  {
+    "count": 2,
+    "name": "Paraguay"
+  },
+  {
+    "count": 2,
+    "name": "Omsk Bird"
+  },
+  {
+    "count": 2,
+    "name": "Oman"
+  },
+  {
+    "count": 2,
+    "name": "Ohio"
+  },
+  {
+    "count": 2,
+    "name": "Northern Cyprus"
+  },
+  {
+    "count": 2,
+    "name": "Niger"
+  },
+  {
+    "count": 2,
+    "name": "Nauru"
+  },
+  {
+    "count": 2,
+    "name": "Nagorno"
+  },
+  {
+    "count": 2,
+    "name": "Mozambique"
+  },
+  {
+    "count": 2,
+    "name": "Micronesia"
+  },
+  {
+    "count": 2,
+    "name": "Marshall Islands"
+  },
+  {
+    "count": 2,
+    "name": "Kurdistan"
+  },
+  {
+    "count": 2,
+    "name": "Kashmir"
+  },
+  {
+    "count": 2,
+    "name": "Kaliningrad"
+  },
+  {
+    "count": 2,
+    "name": "Jamaica"
+  },
+  {
+    "count": 2,
+    "name": "Ivory Coast"
+  },
+  {
+    "count": 2,
+    "name": "Imperial Russia"
+  },
+  {
+    "count": 2,
+    "name": "Honduras"
+  },
+  {
+    "count": 2,
+    "name": "Guyana"
+  },
+  {
+    "count": 2,
+    "name": "Guinea"
+  },
+  {
+    "count": 2,
+    "name": "Guatemala"
+  },
+  {
+    "count": 2,
+    "name": "Faroe Islands"
+  },
+  {
+    "count": 2,
+    "name": "Falkland Islands"
+  },
+  {
+    "count": 2,
+    "name": "Eriteria"
+  },
+  {
+    "count": 2,
+    "name": "El Salvador"
+  },
+  {
+    "count": 2,
+    "name": "East Timor"
+  },
+  {
+    "count": 2,
+    "name": "Democratic Republic of the Congo"
+  },
+  {
+    "count": 2,
+    "name": "DR Congo"
+  },
+  {
+    "count": 2,
+    "name": "Congo"
+  },
+  {
+    "count": 2,
+    "name": "Columbia"
+  },
+  {
+    "count": 2,
+    "name": "Chechnya"
+  },
+  {
+    "count": 2,
+    "name": "Catalonia"
+  },
+  {
+    "count": 2,
+    "name": "Cascadia"
+  },
+  {
+    "count": 2,
+    "name": "Byzantine Empire"
+  },
+  {
+    "count": 2,
+    "name": "Burkina Faso"
+  },
+  {
+    "count": 2,
+    "name": "Benin"
+  },
+  {
+    "count": 2,
+    "name": "Basque"
+  },
+  {
+    "count": 2,
+    "name": "Bangladesh"
+  },
+  {
+    "count": 2,
+    "name": "Austrian Empire"
+  },
+  {
+    "count": 2,
+    "name": "Antigua and Barbuda"
+  },
+  {
+    "count": 2,
+    "name": "Angola"
+  },
+  {
+    "count": 2,
+    "name": "Ancient Greece"
+  },
+  {
+    "count": 2,
+    "name": "Alaska"
+  },
+  {
+    "count": 2,
+    "name": "African Union"
+  },
+  {
+    "count": 2,
+    "name": "ASEAN"
+  },
+  {
+    "count": 2,
+    "name": ""
+  },
+  {
+    "count": 1,
+    "name": "various"
+  },
+  {
+    "count": 1,
+    "name": "Zanzibar"
+  },
+  {
+    "count": 1,
+    "name": "Zambia"
+  },
+  {
+    "count": 1,
+    "name": "Wurttemburg"
+  },
+  {
+    "count": 1,
+    "name": "Washington"
+  },
+  {
+    "count": 1,
+    "name": "War"
+  },
+  {
+    "count": 1,
+    "name": "Venice"
+  },
+  {
+    "count": 1,
+    "name": "Vanuatu"
+  },
+  {
+    "count": 1,
+    "name": "United Nations"
+  },
+  {
+    "count": 1,
+    "name": "Ukraine Oil"
+  },
+  {
+    "count": 1,
+    "name": "Uighurs"
+  },
+  {
+    "count": 1,
+    "name": "USSR"
+  },
+  {
+    "count": 1,
+    "name": "USA"
+  },
+  {
+    "count": 1,
+    "name": "U.K. Seychelles"
+  },
+  {
+    "count": 1,
+    "name": "U.K. Scotland"
+  },
+  {
+    "count": 1,
+    "name": "U.A.E."
+  },
+  {
+    "count": 1,
+    "name": "Tusinia"
+  },
+  {
+    "count": 1,
+    "name": "Turkmenistan"
+  },
+  {
+    "count": 1,
+    "name": "Tristan da Cunha"
+  },
+  {
+    "count": 1,
+    "name": "Trinidad and Tobago"
+  },
+  {
+    "count": 1,
+    "name": "Treaty of Tordesillas"
+  },
+  {
+    "count": 1,
+    "name": "Thespiae"
+  },
+  {
+    "count": 1,
+    "name": "Tesin"
+  },
+  {
+    "count": 1,
+    "name": "Tasmania"
+  },
+  {
+    "count": 1,
+    "name": "Switzeland"
+  },
+  {
+    "count": 1,
+    "name": "Swiss"
+  },
+  {
+    "count": 1,
+    "name": "Swaziland"
+  },
+  {
+    "count": 1,
+    "name": "Svalbard"
+  },
+  {
+    "count": 1,
+    "name": "Surinam"
+  },
+  {
+    "count": 1,
+    "name": "St. Kitts and Nevis"
+  },
+  {
+    "count": 1,
+    "name": "St Kitts and Nevis"
+  },
+  {
+    "count": 1,
+    "name": "Sri Lanka"
+  },
+  {
+    "count": 1,
+    "name": "Sparta"
+  },
+  {
+    "count": 1,
+    "name": "Spanish Nations"
+  },
+  {
+    "count": 1,
+    "name": "Sovakia"
+  },
+  {
+    "count": 1,
+    "name": "South Yemen"
+  },
+  {
+    "count": 1,
+    "name": "South Vietnam"
+  },
+  {
+    "count": 1,
+    "name": "South Ossetia"
+  },
+  {
+    "count": 1,
+    "name": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "count": 1,
+    "name": "Solomon Islands"
+  },
+  {
+    "count": 1,
+    "name": "Snowballs"
+  },
+  {
+    "count": 1,
+    "name": "Seychelles"
+  },
+  {
+    "count": 1,
+    "name": "Sengal"
+  },
+  {
+    "count": 1,
+    "name": "Savoy"
+  },
+  {
+    "count": 1,
+    "name": "Saint Vincent and Grenadines"
+  },
+  {
+    "count": 1,
+    "name": "Saint Lucia"
+  },
+  {
+    "count": 1,
+    "name": "Russian SSR"
+  },
+  {
+    "count": 1,
+    "name": "Russian Empire"
+  },
+  {
+    "count": 1,
+    "name": "Rusian Empire"
+  },
+  {
+    "count": 1,
+    "name": "Romani People"
+  },
+  {
+    "count": 1,
+    "name": "Romance Countries"
+  },
+  {
+    "count": 1,
+    "name": "Roman Empire"
+  },
+  {
+    "count": 1,
+    "name": "Rohingya Muslims"
+  },
+  {
+    "count": 1,
+    "name": "Republic of China"
+  },
+  {
+    "count": 1,
+    "name": "Qing China"
+  },
+  {
+    "count": 1,
+    "name": "Pluto"
+  },
+  {
+    "count": 1,
+    "name": "Papua New Guinea"
+  },
+  {
+    "count": 1,
+    "name": "PIIGS"
+  },
+  {
+    "count": 1,
+    "name": "Oudh State"
+  },
+  {
+    "count": 1,
+    "name": "Ontario"
+  },
+  {
+    "count": 1,
+    "name": "Oil Independence"
+  },
+  {
+    "count": 1,
+    "name": "Nova Scotia"
+  },
+  {
+    "count": 1,
+    "name": "North Yemen"
+  },
+  {
+    "count": 1,
+    "name": "North Vietnam"
+  },
+  {
+    "count": 1,
+    "name": "New England"
+  },
+  {
+    "count": 1,
+    "name": "New Caldonia"
+  },
+  {
+    "count": 1,
+    "name": "Namibia"
+  },
+  {
+    "count": 1,
+    "name": "Myanmar"
+  },
+  {
+    "count": 1,
+    "name": "Mughal Empire"
+  },
+  {
+    "count": 1,
+    "name": "Mongols"
+  },
+  {
+    "count": 1,
+    "name": "Mongolians"
+  },
+  {
+    "count": 1,
+    "name": "Mongol Empire"
+  },
+  {
+    "count": 1,
+    "name": "Middle East"
+  },
+  {
+    "count": 1,
+    "name": "Meixco"
+  },
+  {
+    "count": 1,
+    "name": "Mayotte"
+  },
+  {
+    "count": 1,
+    "name": "Mars"
+  },
+  {
+    "count": 1,
+    "name": "Maratha Empire"
+  },
+  {
+    "count": 1,
+    "name": "Maori"
+  },
+  {
+    "count": 1,
+    "name": "Manchukuo"
+  },
+  {
+    "count": 1,
+    "name": "Maldives"
+  },
+  {
+    "count": 1,
+    "name": "Malawi"
+  },
+  {
+    "count": 1,
+    "name": "Maine"
+  },
+  {
+    "count": 1,
+    "name": "Madhya Pradesh"
+  },
+  {
+    "count": 1,
+    "name": "Madeira"
+  },
+  {
+    "count": 1,
+    "name": "Louisana"
+  },
+  {
+    "count": 1,
+    "name": "Leosotho"
+  },
+  {
+    "count": 1,
+    "name": "Lemko Republic"
+  },
+  {
+    "count": 1,
+    "name": "Lebanon"
+  },
+  {
+    "count": 1,
+    "name": "Leage of Nations"
+  },
+  {
+    "count": 1,
+    "name": "Krakow"
+  },
+  {
+    "count": 1,
+    "name": "Koreas"
+  },
+  {
+    "count": 1,
+    "name": "Korea"
+  },
+  {
+    "count": 1,
+    "name": "Kingdom of the Two Sicilies"
+  },
+  {
+    "count": 1,
+    "name": "Jewish Refugees"
+  },
+  {
+    "count": 1,
+    "name": "Jewish Oblast"
+  },
+  {
+    "count": 1,
+    "name": "JLP Results"
+  },
+  {
+    "count": 1,
+    "name": "Italy and Austria"
+  },
+  {
+    "count": 1,
+    "name": "Ingushetia"
+  },
+  {
+    "count": 1,
+    "name": "ISIS"
+  },
+  {
+    "count": 1,
+    "name": "IMF"
+  },
+  {
+    "count": 1,
+    "name": "Hungarian"
+  },
+  {
+    "count": 1,
+    "name": "Holland"
+  },
+  {
+    "count": 1,
+    "name": "Hawaii"
+  },
+  {
+    "count": 1,
+    "name": "Hamburg"
+  },
+  {
+    "count": 1,
+    "name": "Gysies"
+  },
+  {
+    "count": 1,
+    "name": "Guinea(s)"
+  },
+  {
+    "count": 1,
+    "name": "Guam"
+  },
+  {
+    "count": 1,
+    "name": "Goa"
+  },
+  {
+    "count": 1,
+    "name": "Gibralter"
+  },
+  {
+    "count": 1,
+    "name": "Ghana"
+  },
+  {
+    "count": 1,
+    "name": "Germnay"
+  },
+  {
+    "count": 1,
+    "name": "Gabon"
+  },
+  {
+    "count": 1,
+    "name": "French Guyana"
+  },
+  {
+    "count": 1,
+    "name": "Flevoland"
+  },
+  {
+    "count": 1,
+    "name": "Flanders"
+  },
+  {
+    "count": 1,
+    "name": "Flag Change."
+  },
+  {
+    "count": 1,
+    "name": "Finalnd"
+  },
+  {
+    "count": 1,
+    "name": "Fiji"
+  },
+  {
+    "count": 1,
+    "name": "Faroe lsands"
+  },
+  {
+    "count": 1,
+    "name": "Facist Spain"
+  },
+  {
+    "count": 1,
+    "name": "Facist Italy"
+  },
+  {
+    "count": 1,
+    "name": "European Nations"
+  },
+  {
+    "count": 1,
+    "name": "Ethopia"
+  },
+  {
+    "count": 1,
+    "name": "Equatorial Guinea"
+  },
+  {
+    "count": 1,
+    "name": "Equador"
+  },
+  {
+    "count": 1,
+    "name": "East German"
+  },
+  {
+    "count": 1,
+    "name": "Dominican Republic"
+  },
+  {
+    "count": 1,
+    "name": "Dominica"
+  },
+  {
+    "count": 1,
+    "name": "Djibouti"
+  },
+  {
+    "count": 1,
+    "name": "Dervish State"
+  },
+  {
+    "count": 1,
+    "name": "Democratic Kampuchea"
+  },
+  {
+    "count": 1,
+    "name": "Danzig"
+  },
+  {
+    "count": 1,
+    "name": "D.C."
+  },
+  {
+    "count": 1,
+    "name": "Czechoslavia"
+  },
+  {
+    "count": 1,
+    "name": "Constantinople"
+  },
+  {
+    "count": 1,
+    "name": "Congos"
+  },
+  {
+    "count": 1,
+    "name": "Congo Republic"
+  },
+  {
+    "count": 1,
+    "name": "Colorado"
+  },
+  {
+    "count": 1,
+    "name": "Colonies"
+  },
+  {
+    "count": 1,
+    "name": "Chad Similar Flags"
+  },
+  {
+    "count": 1,
+    "name": "Carthage (Tunisia)"
+  },
+  {
+    "count": 1,
+    "name": "Carthage"
+  },
+  {
+    "count": 1,
+    "name": "Canadian Natives"
+  },
+  {
+    "count": 1,
+    "name": "Cameroon"
+  },
+  {
+    "count": 1,
+    "name": "Calabria"
+  },
+  {
+    "count": 1,
+    "name": "Bosniaks"
+  },
+  {
+    "count": 1,
+    "name": "Blacks"
+  },
+  {
+    "count": 1,
+    "name": "Billiard Balls"
+  },
+  {
+    "count": 1,
+    "name": "Bermuda Triangle"
+  },
+  {
+    "count": 1,
+    "name": "Bermuda"
+  },
+  {
+    "count": 1,
+    "name": "Basque Country"
+  },
+  {
+    "count": 1,
+    "name": "Barbary States"
+  },
+  {
+    "count": 1,
+    "name": "Barbary Pirates"
+  },
+  {
+    "count": 1,
+    "name": "Bahamas"
+  },
+  {
+    "count": 1,
+    "name": "Azores"
+  },
+  {
+    "count": 1,
+    "name": "Autria"
+  },
+  {
+    "count": 1,
+    "name": "Australian Capital Territory"
+  },
+  {
+    "count": 1,
+    "name": "Australai"
+  },
+  {
+    "count": 1,
+    "name": "Asian People"
+  },
+  {
+    "count": 1,
+    "name": "Arctic Victory"
+  },
+  {
+    "count": 1,
+    "name": "Annobon Province"
+  },
+  {
+    "count": 1,
+    "name": "Ancient Greeks"
+  },
+  {
+    "count": 1,
+    "name": "Alsace"
+  },
+  {
+    "count": 1,
+    "name": "Aland Islands"
+  },
+  {
+    "count": 1,
+    "name": "Aland"
+  },
+  {
+    "count": 1,
+    "name": "Al Qaeda"
+  },
+  {
+    "count": 1,
+    "name": "African Natives"
+  },
+  {
+    "count": 1,
+    "name": "Aboriginals"
+  },
+  {
+    "count": 1,
+    "name": "8"
+  }
 ]
