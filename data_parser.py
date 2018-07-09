@@ -1,7 +1,9 @@
 import json
 import re
+import utils
 
 cset = set()
+cdict = utils.myDict()
 
 def parseCountryList(line):
     countries = line.split("-")[1]
@@ -9,13 +11,14 @@ def parseCountryList(line):
     for i in range(len(clist)):
         clist[i] = clist[i].strip()
 
+        cdict[clist[i]] += 1
         cset.add(clist[i])
 
     return clist
 
 data = []
 
-with open("data.txt") as f:
+with open("data_sources/data.txt") as f:
     for line in f.readlines():
         if not line.startswith("http://i.imgur.com"):
             continue
@@ -34,8 +37,11 @@ with open("data.txt") as f:
 
         data += [entry]
 
-with open("output.json", "w") as f:
+with open("data_normalization/output.json", "w") as f:
     json.dump(data, f, indent=2)
 
-with open("country_list.json", "w") as f:
+with open("data_normalization/country_list.json", "w") as f:
     json.dump(sorted(list(cset)), f, indent=2)
+
+with open("data_normalization/country_freq.json", "w") as f:
+    json.dump([x[1] for x in cdict.getSortedPairs()], f, indent=2)
